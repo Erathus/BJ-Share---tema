@@ -248,7 +248,7 @@ ul.thin li {
     /*background: url('images/logo.png') no-repeat center center;*/
   /*background: url('images/tipo-black.png') no-repeat center center;*/
   /*background: url('images/logo_d.png') no-repeat center center;*/
-    background: url('images/logo.png') /* logo */
+    background: url('images/logo.png'); /* logo */
     margin: 5px auto 0px auto;
 }
 
