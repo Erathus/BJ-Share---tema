@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:500,100,700,400,300);
-@impor url();
 
 /* Global */
 * {
@@ -1572,7 +1571,7 @@ body {
     background: url(https://raw.githubusercontent.com/LeandroPelegrini/tema-midnight/master/images/pattern.png) repeat scroll 0 0 #111!important;
 }
 
-#wrapper{
+#wrapper {
     /*background-color:#272727;
     height: 293px;
     box-shadow: 0px 2px 10px 3px #000000b5; */
@@ -1801,7 +1800,7 @@ ul.thin li {
     height: 340px;
     margin-bottom: 59px;
     margin: 0 auto;
-    background: url('BJ-Share---tema/cl10U4n.jpg')
+    background: url('i.imgur.com/cl10U4n.jpg')
 
 #logo a {
     border: none;
