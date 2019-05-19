@@ -213,8 +213,9 @@ ul.thin li {
   /*background: url('images/fundo-black.jpg') repeat-x top center;*/
   /*background: url('images/header3.png') repeat-x top center;*/
   /*background: url('images/logo_natal.png') no-repeat top center;*/
-  background: url('images/logo.png') no-repeat top center;
-      background-color: #272727;
+  /*background: url('images/logo.png') no-repeat top center;*/
+    background: url('images/logo_retro.png') no-repeat top center;
+    background-color: #272727;
     width: 100%;
     padding: 0px 0 0 0;
 }
@@ -248,7 +249,6 @@ ul.thin li {
     /*background: url('images/logo.png') no-repeat center center;*/
   /*background: url('images/tipo-black.png') no-repeat center center;*/
   /*background: url('images/logo_d.png') no-repeat center center;*/
-    background: url('images/logo.png'); /* logo */
     margin: 5px auto 0px auto;
 }
 
